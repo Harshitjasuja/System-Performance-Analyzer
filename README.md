@@ -42,14 +42,25 @@ pip install -r requirements.txt
 
 # Run the app
 python main.py
-'''
+```
 
-# Project Structure
-- System-Performance-Analyzer/
-- │
+## Project Structure
+
+- System-Performance-Analyzer
+- |
 - ├── UI.py                  # Main GUI window
 - ├── monitor.py             # Performance monitoring logic
 - ├── graph_plot.py          # Real-time graph plotting
 - ├── splash.py              # Splash screen code
-- ├── utils/                 # Helper functions and data storage
-- └── assets/                # Logos, icons, images
+- ├── utils                  # Helper functions and data storage
+- └── assets                 # Logos, icons, images
+
+## Contributors
+- Harshit Jasuja
+- Yashika Dixit
+- Shivendra Srivastva
+
+## Acknowledgements
+- psutil – For system resource access
+- Matplotlib – For real-time data plotting
+- Stack Overflow and GitHub Community for support
