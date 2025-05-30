@@ -283,8 +283,8 @@ python final.py
 ## License
 - This project is developed as an academic project by the Architechs Team for SE(OS)-VI-T250. All rights reserved.
 - For collaboration, feature requests, or partnership opportunities, please contact the development team.
-**© 2025 Team Architechs**
--Advanced System Engineering Project
+- **© 2025 Team Architechs**
+- Advanced System Engineering Project
 
 ## Acknowledgements
 - Built with Python, CustomTkinter, Matplotlib, psutil, and more.
